@@ -25,6 +25,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+##
+### HACKTOBERFEST 2023:
+
+[![An image of @surajit0573's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/surajit0573)](https://holopin.io/@surajit0573)
+
+
+
 ### My Github Stats 📊
 
 |<img src="https://github-readme-stats.vercel.app/api?username=Surajit0573&&show_icons=true&count_private=true&include_all_commits=true&&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Surajit0573&count_private=true&include_all_commits=true&&theme=tokyonight"/>|
